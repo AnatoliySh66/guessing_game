@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game26"
+version = "0.1.0"
+edition = "2024"
+authors = ["Шелганов АЕ", "wrkwww@yandex.ru>"]
+rust-version = "1.85"
+
+[dependencies]
+rand = "0.8.5"
